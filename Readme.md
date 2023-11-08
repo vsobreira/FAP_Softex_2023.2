@@ -1,0 +1,1 @@
+Olá! Esta pasta contém os exercícios de Padrão de Projetos do curso FAP/Softex (2023.2).
